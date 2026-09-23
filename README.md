@@ -28,7 +28,7 @@ The model is `DecisionTreeClassifier`. Feed it a flower's measurements (sepal le
 pip install sagemaker boto3 joblib scikit-learn
 ```
 
-## Tweak the config
+## Modify the config
 
 `deploy.py` contains few params that you want to change to your own setup:
 
